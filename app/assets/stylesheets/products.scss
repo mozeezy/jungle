@@ -109,3 +109,16 @@ main section.products-show {
   }
 }
 
+.login-links {
+  top: 0;
+  right: 0;
+  padding: 1.5rem 2rem;
+  color: #fff;
+  background: grey;
+  border-radius: 5px;
+
+  & a,
+  & a:visited {
+    color: #fff;
+  }
+}
