@@ -7,10 +7,10 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 - Filter by categories to make your shopping experience easier!
 
 ## Screenshots
-![Homepage](./screenshots/home-page)
-![Product-page](./screenshots/product-page)
-![Admin-dashboard](./screenshots/admin-dashboard)
-![Admin-products](./screenshots/admin-products)
+![Homepage](https://github.com/mozeezy/jungle/blob/master/screenshots/home-page.png?raw=true)
+![Product-page](https://github.com/mozeezy/jungle/blob/master/screenshots/product-page.png?raw=true)
+![Admin-dashboard](https://github.com/mozeezy/jungle/blob/master/screenshots/admin-dashboard.png?raw=true)
+![Admin-products](https://github.com/mozeezy/jungle/blob/master/screenshots/admin-products.png?raw=true)
 
 ## Additional Steps for Apple M1 Machines
 
