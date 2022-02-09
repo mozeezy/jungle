@@ -2,6 +2,16 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+## Features
+- Admin can add/edit/delete products and categories
+- Filter by categories to make your shopping experience easier!
+
+## Screenshots
+![Homepage](./screenshots/home-page)
+![Product-page](./screenshots/product-page)
+![Admin-dashboard](./screenshots/admin-dashboard)
+![Admin-products](./screenshots/admin-products)
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
