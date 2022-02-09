@@ -22,7 +22,7 @@ RSpec.feature "Product Details", type: :feature, js:true  do
     visit root_path
     page.find('.products').first(:link, "Details").click
 
-    # DEBUG / VERIFY
+    # DEBUG / VERIFY 
 
     #VERIFY
     expect(page).to have_css '.product-detail', count: 1
